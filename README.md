@@ -19,7 +19,7 @@ Analysis of e-commerce performance across sales, customers, products, channels, 
 
 **Focus:** business performance analysis, customer behavior, retention, channel performance, regional trends
 
-[View repository](https://github.com/gabrielevaiciunaite/gamezone-analysis)
+[View repository](https://github.com/gabrielevaiciunaite/GameZone_report/tree/main)
 
 ---
 
@@ -35,7 +35,7 @@ Design and implementation of a structured SQL data warehouse for analytics and r
 
 **Focus:** SQL, ETL, data transformation, data modeling, analytics-ready datasets
 
-[View repository](https://github.com/gabrielevaiciunaite/sql-data-warehouse)
+[View repository](https://github.com/gabrielevaiciunaite/sql-data-warehouse-project)
 
 ---
 
